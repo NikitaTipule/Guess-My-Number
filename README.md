@@ -6,9 +6,9 @@
 
 ![]()
 	
-![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/Screenshots/1.jpeg)
-![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/Screenshots/2.jpeg)
-![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/Screenshots/3.jpeg)
-![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/Screenshots/4.jpeg)
-![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/Screenshots/5.jpeg)
+![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/screenshots/1.png)
+![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/screenshots/2.png)
+![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/screenshots/3.png)
+![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/screenshots/4.png)
+![](https://github.com/NikitaTipule/Guess-My-Number/blob/master/screenshots/5.png)
 
