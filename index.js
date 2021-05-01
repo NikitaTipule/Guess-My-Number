@@ -21,17 +21,17 @@ document.querySelector('.check').addEventListener
         }
         else if(guess === secretNumber) {
             displayMessage('🎉 Correct Number!');
-            score--;
+            // score--;
             document.querySelector('.score').textContent = score;
             if(score > highscore) {
                 highscore = score;
             }
             document.querySelector('.highscore').textContent = highscore;
             document.querySelector('.number').textContent = String(secretNumber);
-            document.querySelector('h1').textContent = 'You Guessed the Number 👏'
-            document.querySelector('body').style.backgroundColor = '#ea0'
+            document.querySelector('h1').textContent = 'You Guessed the Number 👏';
+            document.querySelector('body').style.backgroundColor = '#ea0';
             document.querySelector('h1').style.color = 'black';
-            document.querySelector('p').style.color = 'black'
+            document.querySelector('p').style.color = 'black';
         }
         else if(guess > secretNumber) {
             displayMessage('📈 Too High');
@@ -70,6 +70,7 @@ document.querySelector('.again').addEventListener
     document.querySelector('.number').textContent = '?';
     document.querySelector('h1').textContent = 'Guess My Number!'
     document.querySelector('h1').style.color = 'aliceblue';
-    document.querySelector('p').style.color = 'aliceblue'
+    document.querySelector('p').style.color = 'aliceblue';
+    document.querySelector('.guess').style.color = 'aliceblue'
 
 })
